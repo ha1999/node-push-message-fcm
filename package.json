@@ -1,0 +1,9 @@
+{
+  "name": "node-push",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^10.0.2"
+  }
+}
